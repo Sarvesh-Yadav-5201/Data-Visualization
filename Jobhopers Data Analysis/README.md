@@ -19,9 +19,9 @@ __________________________________
   
 ## <b> Getting Started:
   
-> *Clone the repository.
-> *Install the required libraries.
-> *Run the Jupyter Notebook.
+> * Clone the repository.
+> * Install the required libraries.
+> * Run the Jupyter Notebook.
   
 ## <b>Dataset:
   
