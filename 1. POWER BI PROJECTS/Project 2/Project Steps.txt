@@ -1,0 +1,36 @@
+Steps: # majorly for service based company.
+
+1. Requirement Gathering (BRD- Business Requirement Document, FRD - Functional Requirement Document)
+
+2. Data Collection (Database / CSV / Excel)
+
+3. Data Modeling (Connect Different Tables )
+
+4. Data Cleaning / Data Pre-Processing 
+
+5. UI  Report (Charts / Custom Charts)
+
+6. Additional INformation (DAX Calculations)
+
+7. RLS (Role Level Service)
+
+
+POWER BI SERVICE:
+
+8.  Create Workspace (Provide wrokspace access within team.)
+9.  Publish
+10. Dashboard
+11. Gateway
+12. Schedule Refresh
+13. Add Roles, Subscribe , alerts
+14. Share the Report 
+15. Create app and share. 
+
+
+
+FOR THIS PROJECT WE WILL FOLLOW THESE PATHS : 
+
+1. Requirement Gathering / Data Collections 
+2. Data transformations / Data Computation
+3. POWER BI Reports/ UI
+4. Dashboard / Publishing.
