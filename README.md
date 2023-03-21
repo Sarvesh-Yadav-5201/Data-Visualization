@@ -1,6 +1,6 @@
 # Data-Visualization-Data-Analysis
 
-<b> <h3> Welcome to the "Data Visualization (Data Analysis)" repository! This collection of tools and techniques is designed to help you explore and analyze data like a pro, using powerful visualization tools that reveal insights and trends at a glance.</b>
+<b> <h3> Welcome to the 'Data Visualization' repository, your one-stop-shop for exploring and analyzing data like a pro. From Python libraries to POWER BI, this collection of tools and techniques is designed to help you uncover insights and trends through powerful visualizations.</b>
   
 ## <b> Getting Started
   
@@ -11,7 +11,8 @@
   
 ## Tools and Techniques
   > This repository includes a range of data visualization tools and techniques, including:
-
+  
+    POWER BI REPORTS 
     Scatter plots
     Heat maps
     Bar charts
